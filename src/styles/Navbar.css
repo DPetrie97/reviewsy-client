@@ -1,0 +1,12 @@
+.Navbar {
+    justify-content:  space-between
+}
+
+.NavbarBrand {
+    font-size: 2em;
+    text-align: center;
+}
+
+/* .navbar-toggler-icon {
+    background-color: blue;
+} */

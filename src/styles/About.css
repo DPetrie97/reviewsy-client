@@ -1,0 +1,16 @@
+.about {
+    background-image: url(../assets/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
+    background-size: cover;
+    height: 90vh;
+    width: 100vw;
+    overflow: auto;
+    text-align: left;
+}
+h2 {
+    text-align: center;
+    margin-top: 10vh;
+}
+
+h3 {
+    text-align: center;
+}

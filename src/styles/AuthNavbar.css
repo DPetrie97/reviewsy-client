@@ -1,0 +1,13 @@
+#authNavbar {
+    background-image: url(../assets/carl-raw-m3hn2Kn5Bns-unsplash.jpg);
+    justify-content: top;
+    background-size: content;
+    background-position: -200em -2em;
+    height: 6.5em;
+}
+
+#authNavbarBrand {
+    color: white;
+    font-size: 4em;
+    font-weight: bold;
+}

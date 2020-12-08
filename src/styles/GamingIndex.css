@@ -1,0 +1,23 @@
+#returnContainer {
+    display: flex;
+    background-image: url(../assets/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg);
+    background-size: cover;
+    height: 90vh;
+    width: 100vw;
+    overflow: auto;
+}
+
+.mainContainer {
+    background-color: black;
+}
+
+
+.reviewCard {
+    display: flex;
+    background-color: bisque;
+    background-size: cover;
+    margin: 5em;
+}
+
+
+

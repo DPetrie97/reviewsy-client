@@ -1,0 +1,70 @@
+.mainAuthDiv {
+    background-image: url('../assets/ben-neale-zpxKdH_xNSI-unsplash.jpg');
+    background-size: cover;
+    height: 90vh;
+    width: 100vw;
+    overflow: auto;
+}
+
+.auth-container {
+    margin-top: 8em;
+    display: flex;
+    justify-content: center;
+}
+
+.register-col {
+    margin-top: 4em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+#registerButton {
+    height: 3em;
+    width: 5em;
+    background-color: transparent;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    border-color: black;
+    border-radius: 10px;
+    position: relative;
+}
+
+#loginButton {
+    height: 3em;
+    width: 5em;
+    background-color: transparent;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    border-color: black;
+    border-radius: 10px;
+    position: relative;
+}
+
+.login-col {
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}
+
+.Card {
+    min-height: 30em;
+    max-height: 65em;
+    min-width: 15px;
+    border-radius: 40px;
+    border: 1px solid lightgray;
+    color: purple;
+    align-self: center;
+    font-size: 1em;
+}
+
+.CardTitle {
+    font-weight: bold;
+    font-size: 1em;
+}
